@@ -1,0 +1,118 @@
+/* RESET ===================================================================================== */
+
+html, body {font-size:100%}
+html,body,h1,h2,h3,h4,h5,form,fieldset,ul,li {margin:0; padding:0}
+h1,h2,h3,h4,h5 {font-weight:normal}
+div {clear:both} /* remember to set clear:none on floated divs! */
+a img {border:0}
+button, #submit, .submit {cursor:pointer}
+
+/* BASIC TYPOGRAPHY =============================================================================== */
+
+body {
+background:#fff /*url(../images/21px.png)*/;
+font-size:87.5%; /* Only really works with percentages that make whole, even pixel numbers eg 100% (16px), 87.5% (14px) and 75% (12px) */
+font-family:georgia, serif; /* only web-safe font to include 'text figures' (also known as 'old-style', 'ranging', 'hanging', 'billing' or 'antique' numerals) */
+color:#222; /* high contrast but slightly muted; black on white is too much */
+padding:0 0 1.5em 0;
+}
+
+pre {
+font-family:inherit /* whatever we want pre for, we don't usually want it in a monospaced font */
+}
+
+/* PARAGRAPHS -------------------------- */
+
+p {
+font-size:1em; /* 0r 16px if body set to 100% | WARNING: Don't change this value; only change the % value in body */
+text-indent:1em;
+text-align:justify;
+word-spacing:0.05em; /* default is approximately 0.25em and this _increments_ it by 0.05em, making it 0.3em  */
+line-height:1.5; /* 1.5 x the font size or 24px if the font-size is 100% */
+margin:0;
+}
+
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, div > p:first-child {
+text-indent:0; /* all paragraphs in a set except the first one after a heading should have a text-indent to mark a 'pause'. Uses the adjacent sibling selector to make this so. Works in IE7 and later */
+}
+
+p a:link {color:#222;} /* reset to body font colour because we are just relying on an underline style to mark links in paragraphs */
+p a:visited{color:#555;} /* subtely indicates where one has been */
+p a:hover {text-decoration:none; border-bottom:1px dashed;} /* a half-way state */
+a:focus, a:active {border:0; outline:1px dashed;} /* completes by fully encapsulating the link in a dashed line. Note: outline works better as an active or focus style because, unlike border, it draws around the perimeter of images properly. Applies to all links for tabbing purposes... */
+
+/* INLINE (WITHIN PARAGRAPH) STYLES -------------------------- */
+
+strong { /* the key with inline styles is to take away in line-height anything you add in font-size */
+font-size:1.2em;
+line-height:0.8;
+}
+
+/* HEADINGS --------------------------- */
+
+h1, h2, h3, h4, h5 {
+line-height:1; /* this value must be '1' (1 x the font-size ie. equal to the font-size) */
+padding:1em 0; /* Spacing (padding) above and below the text should be equal to the font-size. This not only keeps rhythm with the overall document but adds an _internal_ rhythm to the heading (spacing is equal to line-height) */
+}
+
+h1 {
+font-size:3em; /* for the following properties to work and the vertical rhythm to be maintained, has to be divisible by 0.5 */
+}
+
+h2 {
+font-size:2em; /* NOTE: For headings that (are likely to) wrap onto 2 lines the font-size must be divisible by 1.5 (1.5em, 3em, 4.5em etc.) */
+}
+
+/* STRINGS OF CAPITALS ---------------------- */
+
+acronym {
+letter-spacing:0.25em; /* set spacing on acronyms for better legibility and greater distinction. Note: not bothering with <abbr> because the spec' is unclear */
+font-weight:bold;
+cursor: help;
+}
+
+/* SHORT QUOTATIONS AND BLOCKQUOTES --------- */
+
+blockquote {
+margin:0;
+padding:1.5em; /* contains a paragraph so just needs a full line (ie. the height of a paragraph line) above and below to space to maintain rhythm. In this example, I've also added left and right padding  */
+}
+
+blockquote p {
+font-style:italic;
+}
+
+blockquote.with-outline {
+outline:5px solid; /* important to use outline - NOT border - because border adds its width and jogs the flow */ 
+padding:1.5em;
+margin:1.5em;
+}
+
+/* LAYOUT ======================================================================================= */
+
+#container {
+width:700px; /* Should be reasonably narrow (preferably less than 75 characters including spaces) for ease of scanning */ 
+margin:0 auto;
+}
+
+#body {
+float:right;
+clear:none;
+width:500px;
+}
+
+#aside {
+float:left;
+clear:none;
+width:200px;
+}
+
+/* ASIDE ---------------------- */
+
+ul {
+padding:1.5em;
+font-size:1em;
+line-height:1.5;
+list-style:circle inside;
+font-style:italic;
+}
