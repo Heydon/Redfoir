@@ -6,11 +6,40 @@
 <link rel="stylesheet" href="css/main.css" type="text/css" media="screen" />
 <script type="text/javascript" src="js/jquery.js"></script> <!-- not a CDN - in case of working offline -->
 <script type="text/javascript" src="js/jqscripts.js"></script> <!-- concatenated plugin code etc. in one http request -->
+<script src="http://api.simile-widgets.org/exhibit/2.2.0/exhibit-api.js" type="text/javascript"></script>
+<script src="http://static.simile.mit.edu/timeline/api-2.3.0/timeline-api.js?bundle=true" type="text/javascript"></script>
+<link rel="exhibit/data" type="application/jsonp" href="https://spreadsheets.google.com/feeds/list/0Asg0mFH1ZjAYdE9yWWpFeDJUTWMzRmNrWDZYYzFSX1E/od6/public/basic?alt=json-in-script" ex:converter="googleSpreadsheets" />
 <link rel="icon" href="favico.png" type="image/png" />
 <title>Replace this title (match h1)</title>
 
 <script type="text/javascript">
-	
+
+// simile timeline initialisation
+function onLoad() {
+   var eventSource = new Timeline.DefaultEventSource();
+   var bandInfos = [
+     Timeline.createBandInfo({
+         eventSource:    eventSource,
+         date:           "Jun 28 2006 00:00:00 GMT",
+         width:          "70%", 
+         intervalUnit:   Timeline.DateTime.MONTH, 
+         intervalPixels: 100
+     }),
+     Timeline.createBandInfo({
+         eventSource:    eventSource,
+         date:           "Jun 28 2006 00:00:00 GMT",
+         width:          "30%", 
+         intervalUnit:   Timeline.DateTime.YEAR, 
+         intervalPixels: 200
+     })
+   ];
+   bandInfos[1].syncWith = 0;
+   bandInfos[1].highlight = true;
+   
+   tl = Timeline.create(document.getElementById("timeline"), bandInfos);
+   //Timeline.loadXML("example1.xml", function(xml, url) { eventSource.loadXML(xml, url); });
+ }
+ 
 // DOCUMENT READY EXAMPLES
 	
 // scrollTo plugin: 
@@ -27,112 +56,17 @@
 
 // $('span').valign({displayType:'inline'}); // vertically align and inline element (span)
 
-// array function examples
-var arr = ['one', 'two', 'three', 'four'];
-
-$(document).ready(function() {
-
-// simple return of array
-
-/*
-	$('<ul id="array-test1"></ul>').appendTo('#container');
-	
-	$.each(arr, function(i, n) {
-		$('<li>'+ i +':'+ n +'</li>').appendTo('#array-test1');
-	});
-*/
-});
-
-//grepping
-var arr2 = [ 11, 22, 37, 75, 85, 100 ];
-
-$(document).ready(function() {
-
-	// basic numerical grep
-/*
-	$('<ul id="array-test2"></ul>').appendTo('#container');
-	
-	var arr3 = $.grep(arr2, function(n, i) { // reverse of (i, n). $.map is also reversed like this
-		return (n <= 37);
-	});
-	
-	$.each(arr3, function(i, n) {
-		$('<li>' + i + ' : ' + n + '</li>').appendTo('#array-test2');
-	});
-*/
-	
-	// mapping example (does the same thing to each member of the array)
-/*
-	$('<ul id="array-test3"></ul>').appendTo('#container');
-	
-	var arr4 = $.map(arr2, function(n, i){
-		return (n * 100);
-	});
-	  
-	$.each(arr4, function(i, n) {
-		$('<li>' + n + '</li>').appendTo('#array-test3');
-	});
-*/
-
-	// convert strings of array to integers then multiply each by 10 using $.map
-/*	
-	var stringArray = ['873', '99', '2020', '22'];
-	
-	var integerArray = $.map(stringArray, function(n, i) {
-		return parseInt(n);
-	});
-	
-	var integerArray = $.map(stringArray, function(n, i) {
-		return (n * 10);
-	});
-	
-	$('<ul id="array-test4"></ul>').appendTo('#container');
-	
-	$.each(integerArray, function(i, n) {
-		$('<li>' + n + '</li>').appendTo('#array-test4');
-	});
-*/
-	// grepping wordy strings
-/*	
-var words = ['patch', 'hatch', 'moo', 'pool'];
-    
-    var wordsGrepped = $.grep(words, function(n, i) {
-        return (n.search('at') != -1); // the search function that takes a simple substring or regex. Returns true if argument does not NOT exist+
-    });
-    
-    $('<ul id="array-test5"></ul>').appendTo('#container');
-    
-    $.each(wordsGrepped, function(i, n) {
-        $('<li>' + n + '</li>').appendTo('#array-test5');
-    });
-*/
-	// should return 'patch' and 'hatch' 
-
-// convert DOM elements into an array ready for array functions (reverse etc.)
-/*	
-	var elementsArray = $.makeArray($('p'));
-	alert(elementsArray);
-*/
-	
-});
-
  </script>
 
 </head>
 
-<body>
+<body onload="onLoad();" onresize="onResize();">
 
 <div id="container">
-	<h1>This is a big h1</h1>
-	<p>Inspect this one line paragraph. Everything should be divisible by its height.</p>
-	<h2>h2 with spacing proportionate to font-size</h2>
-	<p>Quisque quis viverra turpis. Etiam eget dapibus diam. Nulla id sem eu odio bibendum eleifend a a metus. Nulla pharetra <acronym title="Hypertext Markup Language">HTML</acronym> hendrerit eros, ac aliquam nisi fringilla quis. Fusce dui mauris, mollis at ultricies eget, gravida vestibulum libero. Duis a purus elit, a mattis nisl. Vivamus egestas arcu a felis blandit in pretium lacus tincidunt. Nam tincidunt ullamcorper condimentum. In at urna ut arcu volutpat aliquet eu at magna. Morbi lacinia <strong>this 'strong' tag has an increased font-size and therefore a decreased line-height</strong> augue quis arcu scelerisque a congue justo dictum. In eleifend dictum sapien, et tristique est adipiscing vel. </p>
-	<blockquote class="with-outline">
-		<p>This blockquote appears to have a border. However, the 'border' is actually an 'outline'. CSS outlines do not affect layout; they do not jog the rhythm.</p>
-	</blockquote>
-	<p>Proin condimentum erat nec est congue ultrices. Vestibulum tempus eros quis urna tempus suscipit. Fusce est orci, varius id elementum in, condimentum sed urna. Quisque hendrerit tellus nec enim mollis ac iaculis purus ullamcorper. Etiam eget tempor enim. Sed at risus metus. Donec ligula purus, accumsan eget suscipit eu, pulvinar in tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-	<p>Mauris tincidunt sagittis purus, ut venenatis risus scelerisque quis. Nulla leo lorem, consequat ut accumsan ac, ornare nec odio. In scelerisque sem mi. Phasellus sit amet augue at massa malesuada fringilla. Praesent convallis, arcu eget sollicitudin euismod, lorem leo fermentum justo, nec faucibus orci urna ac orci. Cras non facilisis quam. Donec mi purus, placerat fringilla adipiscing fermentum, aliquet eu felis. In luctus venenatis nulla, sed consectetur magna pharetra eu.</p>	
-	<p>Quisque quis viverra turpis. Etiam eget dapibus diam. Nulla id sem eu odio bibendum eleifend a a metus. Nulla pharetra.</p>
+<div id="timeline" style="height: 150px; border: 1px solid #aaa"></div>
+<noscript>
+This page uses Javascript to show you a Timeline. Please enable Javascript in your browser to see the full page. Thank you.
+</noscript>
 </div>
 
 </body>
