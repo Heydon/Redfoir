@@ -1,0 +1,184 @@
+{
+  "events" : [
+    {
+      "title" : "102176",
+      "description" : "Various questions regarding allotment sites in redbridge",
+      "start" : "2010-01-01",
+      "end" : "2010-01-28",
+      "Derived working days" : 18,
+      "Outcome" : "Information Provided",
+      "Service area" : "Housing & Community Services"
+    },
+    {
+      "title" : "102177",
+      "description" : "Various questions on Redbridge Life",
+      "start" : "2010-01-04",
+      "end" : "2010-01-25",
+      "Derived working days" : 15,
+      "Outcome" : "Information Provided",
+      "Service area" : "Customer Service & Performance"
+    },
+    {
+      "title" : "102182",
+      "description" : "Various questions on child protectioncases /adoption/lists passed to hospitals/Ofsted inspection/CRB check",
+      "start" : "2010-01-04",
+      "end" : "2010-02-01",
+      "Derived working days" : 20,
+      "Outcome" : "Partial information provided, rest not held",
+      "Service area" : "Childrens Services"
+    },
+    {
+      "title" : "102180",
+      "description" : "Additional information in addition to that provided in 102050 - list of every third pasrty council has spent money with",
+      "start" : "2010-01-04",
+      "end" : "2010-02-03",
+      "Derived working days" : 22,
+      "Outcome" : "Information Provided",
+      "Service area" : "Finance and Resources"
+    },
+    {
+      "title" : "102179",
+      "description" : "Used of outside organisations for advice on FOI/DP and EIR",
+      "start" : "2010-01-04",
+      "end" : "2010-01-06",
+      "Derived working days" : 2,
+      "Outcome" : "Information Provided",
+      "Service area" : "Corporate request"
+    },
+    {
+      "title" : "102181",
+      "description" : "Name of ICT Head/address/ICT strategy",
+      "start" : "2010-01-04",
+      "end" : "2010-01-15",
+      "Derived working days" : 9,
+      "Outcome" : "Information Provided",
+      "Service area" : "Finance and Resources"
+    },
+    {
+      "title" : "102183",
+      "description" : "Various questions on staff away days for last 4 years",
+      "start" : "2010-01-05",
+      "end" : "2010-01-07",
+      "Derived working days" : 2,
+      "Outcome" : "Partial Information Provided",
+      "Service area" : "Corporate request"
+    },
+    {
+      "title" : "102185",
+      "description" : "Number of domestic/residential properties in conservations areas",
+      "start" : "2010-01-06",
+      "end" : "2010-01-13",
+      "Derived working days" : 5,
+      "Outcome" : "Information Provided",
+      "Service area" : "Environment & Regeneration"
+    },
+    {
+      "title" : "102186",
+      "description" : "Budget on HIV/AIDS and how monies spent",
+      "start" : "2010-01-07",
+      "end" : "2010-02-10",
+      "Derived working days" : 24,
+      "Outcome" : "Information Provided",
+      "Service area" : "Adult Social Services"
+    },
+    {
+      "title" : "102188",
+      "description" : "Names and addresses of all premises who have been issued with a license to provide live music.",
+      "start" : "2010-01-07",
+      "end" : "2010-02-05",
+      "Derived working days" : 21,
+      "Outcome" : "Information Provided",
+      "Service area" : "Environment & Regeneration"
+    },
+    {
+      "title" : "102190",
+      "description" : "request for details of premises that currently hold a licence to sell alcohol past 1 a.m.",
+      "start" : "2010-01-11",
+      "end" : "2010-02-05",
+      "Derived working days" : 19,
+      "Outcome" : "Information Provided",
+      "Service area" : "Environment & Regeneration"
+    },
+    {
+      "title" : "102192",
+      "description" : "How many ASBOS since 1998/breached",
+      "start" : "2010-01-11",
+      "end" : "2010-02-09",
+      "Derived working days" : 21,
+      "Outcome" : "Information not held",
+      "Service area" : "Environment & Regeneration"
+    },
+    {
+      "title" : "102191",
+      "description" : "Number of tower blocks/risk assessments/less than 10 storeys",
+      "start" : "2010-01-11",
+      "end" : "2010-01-13",
+      "Derived working days" : 2,
+      "Outcome" : "Information Provided",
+      "Service area" : "Housing & Community Services"
+    },
+    {
+      "title" : "102189",
+      "description" : "Data requested on mobile and landline communications.",
+      "start" : "2010-01-11",
+      "end" : "2010-01-27",
+      "Derived working days" : 12,
+      "Outcome" : "Information Provided",
+      "Service area" : "Finance and Resources"
+    },
+    {
+      "title" : "102194",
+      "description" : "Copies of correspondence between London Marathon Ltd and London Marathon Charitable Trust plus hospitality provided re above.",
+      "start" : "2010-01-12",
+      "end" : "2010-01-15",
+      "Derived working days" : 3,
+      "Outcome" : "Information Provided",
+      "Service area" : "Housing & Community Services"
+    },
+    {
+      "title" : "102193",
+      "description" : "info re authorityï¿½s provisions for helping home owners who need permanent care to access support that can prevent them having to sell their properties before they die.",
+      "start" : "2010-01-12",
+      "end" : "2010-02-16",
+      "Derived working days" : 25,
+      "Outcome" : "Information Provided",
+      "Service area" : "Adult Social Services"
+    },
+    {
+      "title" : "102195",
+      "description" : "LBR applications for funds from London Marathon Charitable Trust",
+      "start" : "2010-01-13",
+      "end" : "2010-01-15",
+      "Derived working days" : 2,
+      "Outcome" : "Information Provided",
+      "Service area" : "Housing & Community Services"
+    },
+    {
+      "title" : "102196",
+      "description" : "Use of RIPA since 2000",
+      "start" : "2010-01-13",
+      "end" : "2010-02-26",
+      "Derived working days" : 32,
+      "Outcome" : "Information Provided",
+      "Service area" : "Customer Service & Performance"
+    },
+    {
+      "title" : "102197",
+      "description" : "Every instance when RIPA used and details of the job position permitted to use this.",
+      "start" : "2010-01-13",
+      "end" : "2010-02-26",
+      "Derived working days" : 32,
+      "Outcome" : "Partial Information Provided",
+      "Service area" : "Customer Service & Performance"
+    },
+    {
+      "title" : "102198",
+      "description" : "Do LBR use Audit Tool/Dignity in Care campaign",
+      "start" : "2010-01-13",
+      "end" : "2010-02-26",
+      "Derived working days" : 32,
+      "Outcome" : "Information Provided",
+      "Service area" : "Adult Social Services"
+    }
+  ]
+}

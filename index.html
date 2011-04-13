@@ -8,7 +8,7 @@
 <script type="text/javascript" src="js/jqscripts.js"></script> <!-- concatenated plugin code etc. in one http request -->
 <script src="http://api.simile-widgets.org/exhibit/2.2.0/exhibit-api.js" type="text/javascript"></script>
 <script src="http://static.simile.mit.edu/timeline/api-2.3.0/timeline-api.js?bundle=true" type="text/javascript"></script>
-<link rel="exhibit/data" type="application/jsonp" href="https://spreadsheets.google.com/feeds/list/0Asg0mFH1ZjAYdE9yWWpFeDJUTWMzRmNrWDZYYzFSX1E/od6/public/basic?alt=json-in-script" ex:converter="googleSpreadsheets" />
+
 <link rel="icon" href="favico.png" type="image/png" />
 <title>Replace this title (match h1)</title>
 
@@ -16,18 +16,18 @@
 
 // simile timeline initialisation
 function onLoad() {
-   var eventSource = new Timeline.DefaultEventSource();
+   var eventSource = new Timeline.DefaultEventSource(0);
    var bandInfos = [
      Timeline.createBandInfo({
          eventSource:    eventSource,
-         date:           "Jun 28 2006 00:00:00 GMT",
+         date:           "Jan 1 2010 00:00:00 GMT",
          width:          "70%", 
          intervalUnit:   Timeline.DateTime.MONTH, 
          intervalPixels: 100
      }),
      Timeline.createBandInfo({
          eventSource:    eventSource,
-         date:           "Jun 28 2006 00:00:00 GMT",
+         date:           "Jan 1 2010 00:00:00 GMT",
          width:          "30%", 
          intervalUnit:   Timeline.DateTime.YEAR, 
          intervalPixels: 200
@@ -36,7 +36,10 @@ function onLoad() {
    bandInfos[1].syncWith = 0;
    bandInfos[1].highlight = true;
    
-   tl = Timeline.create(document.getElementById("timeline"), bandInfos);
+   tl = Timeline.create(document.getElementById("timeline"), bandInfos, Timeline.HORIZONTAL);
+   tl.loadJSON("./data/sample.json?t="+ (new Date().getTime()), function(json, url) {
+                eventSource.loadJSON(json, url);
+            });
    //Timeline.loadXML("example1.xml", function(xml, url) { eventSource.loadXML(xml, url); });
  }
  
@@ -60,7 +63,7 @@ function onLoad() {
 
 </head>
 
-<body onload="onLoad();" onresize="onResize();">
+<body onload="onLoad();" >
 
 <div id="container">
 <div id="timeline" style="height: 150px; border: 1px solid #aaa"></div>
