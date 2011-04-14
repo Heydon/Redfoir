@@ -7,63 +7,16 @@
 <script type="text/javascript" src="js/jqscripts.js"></script> <!-- concatenated plugin code etc. in one http request -->
 <script src="http://api.simile-widgets.org/exhibit/2.2.0/exhibit-api.js" type="text/javascript"></script>
 <script src="http://static.simile.mit.edu/timeline/api-2.3.0/timeline-api.js?bundle=true" type="text/javascript"></script>
+
+<script src="./js/redfoir.js" type="text/javascript"></script>
+
+
 <link rel="stylesheet" href="css/main.css" type="text/css" media="screen" />
 <link rel="icon" href="favico.png" type="image/png" />
 <title>Redbridge Freedom of Information Requests</title>
 
-<script type="text/javascript">
 
-// simile timeline initialisation
-function onLoad() {
-   var eventSource = new Timeline.DefaultEventSource(0);
-   var bandInfos = [
-     Timeline.createBandInfo({
-         eventSource:    eventSource,
-         date:           "Jan 1 2010 00:00:00 GMT",
-         width:          "30%", 
-         intervalUnit:   Timeline.DateTime.MONTH, 
-         intervalPixels: 200,
-		 overview:       true
-     }),
-     Timeline.createBandInfo({
-         eventSource:    eventSource,
-         date:           "Jan 1 2010 00:00:00 GMT",
-         width:          "70%", 
-         intervalUnit:   Timeline.DateTime.WEEK, 
-         intervalPixels: 100
-     })
-     
-   ];
-   bandInfos[0].syncWith = 1;
-   bandInfos[0].highlight = true;
-   
-   tl = Timeline.create(document.getElementById("timeline"), bandInfos, Timeline.HORIZONTAL);
-   //tl.loadJSON("./data/redbridge-freedom-of-information-requests.json?t="+ (new Date().getTime()), function(json, url) {
-   //             eventSource.loadJSON(json, url);
-   //         });
-   tl.loadJSON("./data/redbridge-freedom-of-information-requests.json?t="+ (new Date().getTime()), function(json, url) {
-                eventSource.loadJSON(json, url);
-            });
-   //Timeline.loadXML("example1.xml", function(xml, url) { eventSource.loadXML(xml, url); });
- }
- 
-// DOCUMENT READY EXAMPLES
-	
-// scrollTo plugin: 
-// -------------------------------------------------------------------------------------------------------------------
 
-// $('html').scrollTo( $('body h2:eq(3)'), 800 ); // scroll to the 4th <h2> in 800 milliseconds
-
-// $('html').scrollTo( '+=100px', 800, {'axis':'x'} ); // scroll the x axis a further 100 pixels on each click event (each scrool lasting 800 milliseconds)
-
-// valign plugin: 
-// -------------------------------------------------------------------------------------------------------------------
-
-// $('blockquote').valign({hAlign:true}); // vertically and horizontally align a blockquote within its parent
-
-// $('span').valign({displayType:'inline'}); // vertically align and inline element (span)
-
- </script>
 
 </head>
 
