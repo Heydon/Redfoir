@@ -16,7 +16,11 @@ Timeline.OriginalEventPainter.prototype._showBubble = function(x, y, evt) {
     'transitionOut':'elastic',
     'opacity':true,
     'overlayShow':false,
-    'titlePosition'   : 'over'
+    'titlePosition'   : 'over',
+	'onComplete' : function() {
+		$('#summary .inner').valign();
+		$('#description blockquote').valign();
+	}
   });
 }
 
