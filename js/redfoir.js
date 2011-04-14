@@ -42,22 +42,27 @@ function frontmatter(){
 	);
 }
 
-function endmatter(){
-	$.fancybox('#emslide1',
-		{
-			//'content':content,
-		    //'orig' : $(elem),
-		    'type' : 'inline',
-		    'cyclic': true,
-		    'transitionIn':'elastic',
-		    'transitionOut':'elastic',
-		    'opacity':true,
-		    'overlayShow':true,
-			'overlayOpacity':1,
-		    'titlePosition'   : 'over'
-  		}
-	);
-}
+
+$(document).ready(function(){
+	$('#endmattertrigger').click(function(){
+
+		$.fancybox('#emslide1',
+			{
+				//'content':content,
+			    //'orig' : $(elem),
+			    'type' : 'inline',
+			    'cyclic': true,
+			    'transitionIn':'elastic',
+			    'transitionOut':'elastic',
+			    'opacity':true,
+			    'overlayShow':true,
+				'overlayOpacity':1,
+			    'titlePosition'   : 'over'
+	  		}
+		);
+		return false;
+	});
+});
 
 // simile timeline initialisation
 function onLoad() {
