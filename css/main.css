@@ -228,7 +228,7 @@ display:none;
 
 div.foir {
 width:960px;
-height:350px;
+height:430px;
 overflow:hidden;
 border:2px solid #fff;
 }
@@ -279,6 +279,21 @@ font-family:georgia, serif;
 
 .inner {
 padding:10px 1em;
+}
+
+#feedback {
+font-size:120%;
+color:#fff;
+clear:both;
+border-top:1px dashed;
+height:80px;
+padding:25px 0 0 200px;
+}
+
+form span {
+font-size:140%;
+color:#cccc33;
+line-height:0.8;
 }
 
 /*------------------- Horizontal / Vertical lines ----------------*/
