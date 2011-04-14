@@ -8,7 +8,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102177",
@@ -18,7 +19,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102182",
@@ -28,7 +30,8 @@
       "workingdays" : 20,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102180",
@@ -38,7 +41,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102179",
@@ -48,7 +52,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102181",
@@ -58,7 +63,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102183",
@@ -68,7 +74,8 @@
       "workingdays" : 2,
       "outcome" : "Partial Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102185",
@@ -78,7 +85,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102186",
@@ -88,7 +96,8 @@
       "workingdays" : 24,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102188",
@@ -98,7 +107,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102190",
@@ -108,7 +118,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102192",
@@ -118,7 +129,8 @@
       "workingdays" : 21,
       "outcome" : "Information not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102191",
@@ -128,7 +140,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102189",
@@ -138,7 +151,8 @@
       "workingdays" : 12,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102194",
@@ -148,7 +162,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102193",
@@ -158,7 +173,8 @@
       "workingdays" : 25,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102195",
@@ -168,7 +184,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102196",
@@ -178,7 +195,8 @@
       "workingdays" : 32,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102197",
@@ -188,7 +206,8 @@
       "workingdays" : 32,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102198",
@@ -198,7 +217,8 @@
       "workingdays" : 32,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102201",
@@ -208,7 +228,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102200",
@@ -218,7 +239,8 @@
       "workingdays" : 0,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102199",
@@ -228,7 +250,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102259",
@@ -238,7 +261,8 @@
       "workingdays" : 20,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102202",
@@ -248,7 +272,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102204",
@@ -258,7 +283,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102203",
@@ -268,7 +294,8 @@
       "workingdays" : 10,
       "outcome" : "Refused",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102205",
@@ -278,7 +305,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102206",
@@ -288,7 +316,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102207",
@@ -298,7 +327,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102208",
@@ -308,7 +338,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102210",
@@ -318,7 +349,8 @@
       "workingdays" : 25,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102209",
@@ -328,7 +360,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102211",
@@ -338,7 +371,8 @@
       "workingdays" : 18,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102212",
@@ -348,7 +382,8 @@
       "workingdays" : 18,
       "outcome" : "Refused",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102213",
@@ -358,7 +393,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102214",
@@ -368,7 +404,8 @@
       "workingdays" : 11,
       "outcome" : "Information not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102215",
@@ -378,7 +415,8 @@
       "workingdays" : 28,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102216",
@@ -388,7 +426,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102218",
@@ -398,7 +437,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102245",
@@ -408,7 +448,8 @@
       "workingdays" : 13,
       "outcome" : "Information not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102219",
@@ -418,7 +459,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102217",
@@ -428,7 +470,8 @@
       "workingdays" : 20,
       "outcome" : "Refused",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102232",
@@ -438,7 +481,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102220",
@@ -448,7 +492,8 @@
       "workingdays" : 13,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102229",
@@ -458,7 +503,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102222",
@@ -468,7 +514,8 @@
       "workingdays" : 20,
       "outcome" : "Information already available elsewhere",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102221",
@@ -478,7 +525,8 @@
       "workingdays" : 0,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102225",
@@ -488,7 +536,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102224",
@@ -498,7 +547,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102223",
@@ -508,7 +558,8 @@
       "workingdays" : 55,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102230",
@@ -518,7 +569,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102233",
@@ -528,7 +580,8 @@
       "workingdays" : 23,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102227",
@@ -538,7 +591,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102228",
@@ -548,7 +602,8 @@
       "workingdays" : 26,
       "outcome" : "Information already available elsewhere",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102231",
@@ -558,7 +613,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102226",
@@ -568,7 +624,8 @@
       "workingdays" : 39,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102234",
@@ -578,7 +635,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102235",
@@ -588,7 +646,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102252",
@@ -598,7 +657,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102236",
@@ -608,7 +668,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102237",
@@ -618,7 +679,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102261",
@@ -628,7 +690,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102240",
@@ -638,7 +701,8 @@
       "workingdays" : 42,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102238",
@@ -648,7 +712,8 @@
       "workingdays" : 14,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102239",
@@ -658,7 +723,8 @@
       "workingdays" : 49,
       "outcome" : "Information not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102243",
@@ -668,7 +734,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102241",
@@ -678,7 +745,8 @@
       "workingdays" : 23,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102244",
@@ -688,7 +756,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102246",
@@ -698,7 +767,8 @@
       "workingdays" : 25,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102242",
@@ -708,7 +778,8 @@
       "workingdays" : 25,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102248",
@@ -718,7 +789,8 @@
       "workingdays" : 32,
       "outcome" : "Information not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102247",
@@ -728,7 +800,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102250",
@@ -738,7 +811,8 @@
       "workingdays" : 29,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102249",
@@ -748,7 +822,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102320",
@@ -758,7 +833,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102251",
@@ -768,7 +844,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102253",
@@ -778,7 +855,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102256",
@@ -788,7 +866,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102257",
@@ -798,7 +877,8 @@
       "workingdays" : 0,
       "outcome" : null,
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102255",
@@ -808,7 +888,8 @@
       "workingdays" : 17,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102258",
@@ -818,7 +899,8 @@
       "workingdays" : 124,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102306",
@@ -828,7 +910,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102254",
@@ -838,7 +921,8 @@
       "workingdays" : 0,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102260",
@@ -848,7 +932,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102263",
@@ -858,7 +943,8 @@
       "workingdays" : 24,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102262",
@@ -868,7 +954,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102268",
@@ -878,7 +965,8 @@
       "workingdays" : 98,
       "outcome" : "Information already available elsewhere",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102266",
@@ -888,7 +976,8 @@
       "workingdays" : 33,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102264",
@@ -898,7 +987,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102267",
@@ -908,7 +998,8 @@
       "workingdays" : 3,
       "outcome" : "Information not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102265",
@@ -918,7 +1009,8 @@
       "workingdays" : 30,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102270",
@@ -928,7 +1020,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102269",
@@ -938,7 +1031,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102277",
@@ -948,7 +1042,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102271",
@@ -958,7 +1053,8 @@
       "workingdays" : 0,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102272",
@@ -968,7 +1064,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102273",
@@ -978,7 +1075,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102276",
@@ -988,7 +1086,8 @@
       "workingdays" : 7,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102274",
@@ -998,7 +1097,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102275",
@@ -1008,7 +1108,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102338",
@@ -1018,7 +1119,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102278",
@@ -1028,7 +1130,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102280",
@@ -1038,7 +1141,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102279",
@@ -1048,7 +1152,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102281",
@@ -1058,7 +1163,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102283",
@@ -1068,7 +1174,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102282",
@@ -1078,7 +1185,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102285",
@@ -1088,7 +1196,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102288",
@@ -1098,7 +1207,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102284",
@@ -1108,7 +1218,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102286",
@@ -1118,7 +1229,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102287",
@@ -1128,7 +1240,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102289",
@@ -1138,7 +1251,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102303",
@@ -1148,7 +1262,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102291",
@@ -1158,7 +1273,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102292",
@@ -1168,7 +1284,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102295",
@@ -1178,7 +1295,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102294",
@@ -1188,7 +1306,8 @@
       "workingdays" : 28,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102293",
@@ -1198,7 +1317,8 @@
       "workingdays" : 17,
       "outcome" : "Information already available elsewhere",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102309",
@@ -1208,7 +1328,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102290",
@@ -1218,7 +1339,8 @@
       "workingdays" : 23,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102296",
@@ -1228,7 +1350,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102301",
@@ -1238,7 +1361,8 @@
       "workingdays" : 29,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102300",
@@ -1248,7 +1372,8 @@
       "workingdays" : 68,
       "outcome" : "Refused",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102299",
@@ -1258,7 +1383,8 @@
       "workingdays" : 48,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102396",
@@ -1268,7 +1394,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102400",
@@ -1278,7 +1405,8 @@
       "workingdays" : 7,
       "outcome" : "Information not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102399",
@@ -1288,7 +1416,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102403",
@@ -1298,7 +1427,8 @@
       "workingdays" : 24,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102398",
@@ -1308,7 +1438,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102402",
@@ -1318,7 +1449,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102401",
@@ -1328,7 +1460,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102406",
@@ -1338,7 +1471,8 @@
       "workingdays" : 81,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102407",
@@ -1348,7 +1482,8 @@
       "workingdays" : 2,
       "outcome" : "Withdrawn",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102404",
@@ -1358,7 +1493,8 @@
       "workingdays" : 3,
       "outcome" : "Information already available elsewhere",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102405",
@@ -1368,7 +1504,8 @@
       "workingdays" : 3,
       "outcome" : "Information already available elsewhere",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102426",
@@ -1378,7 +1515,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102408",
@@ -1388,7 +1526,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102409",
@@ -1398,7 +1537,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102411",
@@ -1408,7 +1548,8 @@
       "workingdays" : 1,
       "outcome" : "Information not held",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102412",
@@ -1418,7 +1559,8 @@
       "workingdays" : 18,
       "outcome" : "Information not held",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102416",
@@ -1428,7 +1570,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102410",
@@ -1438,7 +1581,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102413",
@@ -1448,7 +1592,8 @@
       "workingdays" : 14,
       "outcome" : "Closed - no response re clarification",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102415",
@@ -1458,7 +1603,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102414",
@@ -1468,7 +1614,8 @@
       "workingdays" : 26,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102417",
@@ -1478,7 +1625,8 @@
       "workingdays" : 9,
       "outcome" : "Information not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102420",
@@ -1488,7 +1636,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102421",
@@ -1498,7 +1647,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102418",
@@ -1508,7 +1658,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102419",
@@ -1518,7 +1669,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102422",
@@ -1528,7 +1680,8 @@
       "workingdays" : 3,
       "outcome" : "Refused",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102423",
@@ -1538,7 +1691,8 @@
       "workingdays" : 23,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102425",
@@ -1548,7 +1702,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102424",
@@ -1558,7 +1713,8 @@
       "workingdays" : 69,
       "outcome" : "Refused",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102427",
@@ -1568,7 +1724,8 @@
       "workingdays" : 20,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102430",
@@ -1578,7 +1735,8 @@
       "workingdays" : 40,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102440",
@@ -1588,7 +1746,8 @@
       "workingdays" : 24,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102431",
@@ -1598,7 +1757,8 @@
       "workingdays" : 1,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102435",
@@ -1608,7 +1768,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102432",
@@ -1618,7 +1779,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102434",
@@ -1628,7 +1790,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102433",
@@ -1638,7 +1801,8 @@
       "workingdays" : 8,
       "outcome" : "Refused",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102436",
@@ -1648,7 +1812,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102437",
@@ -1658,7 +1823,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102441",
@@ -1668,7 +1834,8 @@
       "workingdays" : 30,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102439",
@@ -1678,7 +1845,8 @@
       "workingdays" : 52,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102438",
@@ -1688,7 +1856,8 @@
       "workingdays" : 34,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102444",
@@ -1698,7 +1867,8 @@
       "workingdays" : 4,
       "outcome" : "Cancelled - duplicate",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102443",
@@ -1708,7 +1878,8 @@
       "workingdays" : 0,
       "outcome" : null,
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102442",
@@ -1718,7 +1889,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102445",
@@ -1728,7 +1900,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102446",
@@ -1738,7 +1911,8 @@
       "workingdays" : 6,
       "outcome" : "Refused",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102449",
@@ -1748,7 +1922,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102450",
@@ -1758,7 +1933,8 @@
       "workingdays" : 32,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102448",
@@ -1768,7 +1944,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102447",
@@ -1778,7 +1955,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102451",
@@ -1788,7 +1966,8 @@
       "workingdays" : 31,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102454",
@@ -1798,7 +1977,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102453",
@@ -1808,7 +1988,8 @@
       "workingdays" : 13,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102452",
@@ -1818,7 +1999,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102455",
@@ -1828,7 +2010,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102457",
@@ -1838,7 +2021,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102456",
@@ -1848,7 +2032,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102458",
@@ -1858,7 +2043,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102459",
@@ -1868,7 +2054,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102461",
@@ -1878,7 +2065,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102460",
@@ -1888,7 +2076,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102463",
@@ -1898,7 +2087,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102464",
@@ -1908,7 +2098,8 @@
       "workingdays" : 27,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102462",
@@ -1918,7 +2109,8 @@
       "workingdays" : 10,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102466",
@@ -1928,7 +2120,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102465",
@@ -1938,7 +2131,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102467",
@@ -1948,7 +2142,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102468",
@@ -1958,7 +2153,8 @@
       "workingdays" : 12,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102469",
@@ -1968,7 +2164,8 @@
       "workingdays" : 5,
       "outcome" : "Information not held",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102471",
@@ -1978,7 +2175,8 @@
       "workingdays" : 9,
       "outcome" : "Withdrawn",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102472",
@@ -1988,7 +2186,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102470",
@@ -1998,7 +2197,8 @@
       "workingdays" : 25,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102473",
@@ -2008,7 +2208,8 @@
       "workingdays" : 61,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102505",
@@ -2018,7 +2219,8 @@
       "workingdays" : 32,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102474",
@@ -2028,7 +2230,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102476",
@@ -2038,7 +2241,8 @@
       "workingdays" : 3,
       "outcome" : "Refused",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102475",
@@ -2048,7 +2252,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102478",
@@ -2058,7 +2263,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102488",
@@ -2068,7 +2274,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102479",
@@ -2078,7 +2285,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102477",
@@ -2088,7 +2296,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102480",
@@ -2098,7 +2307,8 @@
       "workingdays" : 72,
       "outcome" : null,
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102482",
@@ -2108,7 +2318,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102481",
@@ -2118,7 +2329,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102484",
@@ -2128,7 +2340,8 @@
       "workingdays" : 32,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102483",
@@ -2138,7 +2351,8 @@
       "workingdays" : 47,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102487",
@@ -2148,7 +2362,8 @@
       "workingdays" : 0,
       "outcome" : "Information already available elsewhere",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102497",
@@ -2158,7 +2373,8 @@
       "workingdays" : 21,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102486",
@@ -2168,7 +2384,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102485",
@@ -2178,7 +2395,8 @@
       "workingdays" : 17,
       "outcome" : "Information not held",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102491",
@@ -2188,7 +2406,8 @@
       "workingdays" : 35,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102495",
@@ -2198,7 +2417,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102493",
@@ -2208,7 +2428,8 @@
       "workingdays" : 28,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102508",
@@ -2218,7 +2439,8 @@
       "workingdays" : 29,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102489",
@@ -2228,7 +2450,8 @@
       "workingdays" : 0,
       "outcome" : "Information not held",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102492",
@@ -2238,7 +2461,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102490",
@@ -2248,7 +2472,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102496",
@@ -2258,7 +2483,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102500",
@@ -2268,7 +2494,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102494",
@@ -2278,7 +2505,8 @@
       "workingdays" : 19,
       "outcome" : "Information not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102498",
@@ -2288,7 +2516,8 @@
       "workingdays" : 19,
       "outcome" : "Information not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102499",
@@ -2298,7 +2527,8 @@
       "workingdays" : 19,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102502",
@@ -2308,7 +2538,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102513",
@@ -2318,7 +2549,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102501",
@@ -2328,7 +2560,8 @@
       "workingdays" : 26,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102503",
@@ -2338,7 +2571,8 @@
       "workingdays" : 26,
       "outcome" : "Closed - no response re clarification",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102504",
@@ -2348,7 +2582,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102506",
@@ -2358,7 +2593,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102509",
@@ -2368,7 +2604,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102507",
@@ -2378,7 +2615,8 @@
       "workingdays" : 0,
       "outcome" : null,
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102510",
@@ -2388,7 +2626,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102512",
@@ -2398,7 +2637,8 @@
       "workingdays" : 26,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102511",
@@ -2408,7 +2648,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102515",
@@ -2418,7 +2659,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102518",
@@ -2428,7 +2670,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102548",
@@ -2438,7 +2681,8 @@
       "workingdays" : 66,
       "outcome" : "Closed - no response re clarification",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102521",
@@ -2448,7 +2692,8 @@
       "workingdays" : 23,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102519",
@@ -2458,7 +2703,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102514",
@@ -2468,7 +2714,8 @@
       "workingdays" : 19,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102516",
@@ -2478,7 +2725,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102520",
@@ -2488,7 +2736,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102517",
@@ -2498,7 +2747,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102522",
@@ -2508,7 +2758,8 @@
       "workingdays" : 1,
       "outcome" : "Information not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102530",
@@ -2518,7 +2769,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102524",
@@ -2528,7 +2780,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102527",
@@ -2538,7 +2791,8 @@
       "workingdays" : 8,
       "outcome" : "Information not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102528",
@@ -2548,7 +2802,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102523",
@@ -2558,7 +2813,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102529",
@@ -2568,7 +2824,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102526",
@@ -2578,7 +2835,8 @@
       "workingdays" : 13,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102531",
@@ -2588,7 +2846,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102525",
@@ -2598,7 +2857,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102532",
@@ -2608,7 +2868,8 @@
       "workingdays" : 1,
       "outcome" : "Information already available elsewhere",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102536",
@@ -2618,7 +2879,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102533",
@@ -2628,7 +2890,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102535",
@@ -2638,7 +2901,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102534",
@@ -2648,7 +2912,8 @@
       "workingdays" : 10,
       "outcome" : "Information not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102612",
@@ -2658,7 +2923,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102542",
@@ -2668,7 +2934,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102537",
@@ -2678,7 +2945,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102538",
@@ -2688,7 +2956,8 @@
       "workingdays" : 3,
       "outcome" : "Withdrawn",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102540",
@@ -2698,7 +2967,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102541",
@@ -2708,7 +2978,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102539",
@@ -2718,7 +2989,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102566",
@@ -2728,7 +3000,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102544",
@@ -2738,7 +3011,8 @@
       "workingdays" : 20,
       "outcome" : "Information already available elsewhere",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102555",
@@ -2748,7 +3022,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102546",
@@ -2758,7 +3033,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102545",
@@ -2768,7 +3044,8 @@
       "workingdays" : 41,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102549",
@@ -2778,7 +3055,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102547",
@@ -2788,7 +3066,8 @@
       "workingdays" : 12,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102543",
@@ -2798,7 +3077,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102550",
@@ -2808,7 +3088,8 @@
       "workingdays" : 12,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102551",
@@ -2818,7 +3099,8 @@
       "workingdays" : 15,
       "outcome" : "Information not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102554",
@@ -2828,7 +3110,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102553",
@@ -2838,7 +3121,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102552",
@@ -2848,7 +3132,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102558",
@@ -2858,7 +3143,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102557",
@@ -2868,7 +3154,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102559",
@@ -2878,7 +3165,8 @@
       "workingdays" : 24,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102556",
@@ -2888,7 +3176,8 @@
       "workingdays" : 24,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102561",
@@ -2898,7 +3187,8 @@
       "workingdays" : 35,
       "outcome" : "Refused",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102590",
@@ -2908,7 +3198,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102584",
@@ -2918,7 +3209,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102560",
@@ -2928,7 +3220,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102564",
@@ -2938,7 +3231,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102563",
@@ -2948,7 +3242,8 @@
       "workingdays" : 4,
       "outcome" : "Information not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102568",
@@ -2958,7 +3253,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102562",
@@ -2968,7 +3264,8 @@
       "workingdays" : 22,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102565",
@@ -2978,7 +3275,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102567",
@@ -2988,7 +3286,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102586",
@@ -2998,7 +3297,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102569",
@@ -3008,7 +3308,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102571",
@@ -3018,7 +3319,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102570",
@@ -3028,7 +3330,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102575",
@@ -3038,7 +3341,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102681",
@@ -3048,7 +3352,8 @@
       "workingdays" : 27,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102574",
@@ -3058,7 +3363,8 @@
       "workingdays" : 53,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102572",
@@ -3068,7 +3374,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102573",
@@ -3078,7 +3385,8 @@
       "workingdays" : 24,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102576",
@@ -3088,7 +3396,8 @@
       "workingdays" : 12,
       "outcome" : "Information not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102577",
@@ -3098,7 +3407,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102589",
@@ -3108,7 +3418,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102578",
@@ -3118,7 +3429,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102581",
@@ -3128,7 +3440,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102579",
@@ -3138,7 +3451,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102580",
@@ -3148,7 +3462,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102583",
@@ -3158,7 +3473,8 @@
       "workingdays" : 5,
       "outcome" : "Refused",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102582",
@@ -3168,7 +3484,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102588",
@@ -3178,7 +3495,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102585",
@@ -3188,7 +3506,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102587",
@@ -3198,7 +3517,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102592",
@@ -3208,7 +3528,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102596",
@@ -3218,7 +3539,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102591",
@@ -3228,7 +3550,8 @@
       "workingdays" : 54,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102660",
@@ -3238,7 +3561,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102593",
@@ -3248,7 +3572,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102594",
@@ -3258,7 +3583,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102595",
@@ -3268,7 +3594,8 @@
       "workingdays" : 24,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102598",
@@ -3278,7 +3605,8 @@
       "workingdays" : 20,
       "outcome" : "Partial Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102600",
@@ -3288,7 +3616,8 @@
       "workingdays" : 12,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102597",
@@ -3298,7 +3627,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102599",
@@ -3308,7 +3638,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102601",
@@ -3318,7 +3649,8 @@
       "workingdays" : 38,
       "outcome" : "Partial Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102604",
@@ -3328,7 +3660,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102603",
@@ -3338,7 +3671,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102606",
@@ -3348,7 +3682,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102602",
@@ -3358,7 +3693,8 @@
       "workingdays" : 30,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102605",
@@ -3368,7 +3704,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102607",
@@ -3378,7 +3715,8 @@
       "workingdays" : 39,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102611",
@@ -3388,7 +3726,8 @@
       "workingdays" : 0,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102609",
@@ -3398,7 +3737,8 @@
       "workingdays" : 27,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102608",
@@ -3408,7 +3748,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102624",
@@ -3418,7 +3759,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102724",
@@ -3428,7 +3770,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102610",
@@ -3438,7 +3781,8 @@
       "workingdays" : 12,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102616",
@@ -3448,7 +3792,8 @@
       "workingdays" : 12,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102613",
@@ -3458,7 +3803,8 @@
       "workingdays" : 12,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102615",
@@ -3468,7 +3814,8 @@
       "workingdays" : 15,
       "outcome" : "Refused",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102614",
@@ -3478,7 +3825,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102627",
@@ -3488,7 +3836,8 @@
       "workingdays" : 44,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102617",
@@ -3498,7 +3847,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102661",
@@ -3508,7 +3858,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102620",
@@ -3518,7 +3869,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102621",
@@ -3528,7 +3880,8 @@
       "workingdays" : 1,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102619",
@@ -3538,7 +3891,8 @@
       "workingdays" : 2,
       "outcome" : "Information already available elsewhere",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102618",
@@ -3548,7 +3902,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102640",
@@ -3558,7 +3913,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102622",
@@ -3568,7 +3924,8 @@
       "workingdays" : 14,
       "outcome" : "Refused",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102623",
@@ -3578,7 +3935,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102625",
@@ -3588,7 +3946,8 @@
       "workingdays" : 71,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102626",
@@ -3598,7 +3957,8 @@
       "workingdays" : 12,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102630",
@@ -3608,7 +3968,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102631",
@@ -3618,7 +3979,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102628",
@@ -3628,7 +3990,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102629",
@@ -3638,7 +4001,8 @@
       "workingdays" : 1,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102633",
@@ -3648,7 +4012,8 @@
       "workingdays" : 0,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102635",
@@ -3658,7 +4023,8 @@
       "workingdays" : 0,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102636",
@@ -3668,7 +4034,8 @@
       "workingdays" : 24,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102634",
@@ -3678,7 +4045,8 @@
       "workingdays" : 26,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102632",
@@ -3688,7 +4056,8 @@
       "workingdays" : 12,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102646",
@@ -3698,7 +4067,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102641",
@@ -3708,7 +4078,8 @@
       "workingdays" : 8,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102638",
@@ -3718,7 +4089,8 @@
       "workingdays" : 29,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102639",
@@ -3728,7 +4100,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102642",
@@ -3738,7 +4111,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102637",
@@ -3748,7 +4122,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102643",
@@ -3758,7 +4133,8 @@
       "workingdays" : 37,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102644",
@@ -3768,7 +4144,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102650",
@@ -3778,7 +4155,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102649",
@@ -3788,7 +4166,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102645",
@@ -3798,7 +4177,8 @@
       "workingdays" : 20,
       "outcome" : "Information not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102648",
@@ -3808,7 +4188,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102647",
@@ -3818,7 +4199,8 @@
       "workingdays" : 14,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102655",
@@ -3828,7 +4210,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102656",
@@ -3838,7 +4221,8 @@
       "workingdays" : 30,
       "outcome" : "Closed - no response re clarification",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102652",
@@ -3848,7 +4232,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102651",
@@ -3858,7 +4243,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102654",
@@ -3868,7 +4254,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102653",
@@ -3878,7 +4265,8 @@
       "workingdays" : 12,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102658",
@@ -3888,7 +4276,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102657",
@@ -3898,7 +4287,8 @@
       "workingdays" : 20,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102659",
@@ -3908,7 +4298,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102662",
@@ -3918,7 +4309,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102664",
@@ -3928,7 +4320,8 @@
       "workingdays" : 18,
       "outcome" : "Information not held",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102665",
@@ -3938,7 +4331,8 @@
       "workingdays" : 5,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102677",
@@ -3948,7 +4342,8 @@
       "workingdays" : 24,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102663",
@@ -3958,7 +4353,8 @@
       "workingdays" : 4,
       "outcome" : "Refused",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102722",
@@ -3968,7 +4364,8 @@
       "workingdays" : 21,
       "outcome" : "Information not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102671",
@@ -3978,7 +4375,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102668",
@@ -3988,7 +4386,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102670",
@@ -3998,7 +4397,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102666",
@@ -4008,7 +4408,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102667",
@@ -4018,7 +4419,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102669",
@@ -4028,7 +4430,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102683",
@@ -4038,7 +4441,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102672",
@@ -4048,7 +4452,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102673",
@@ -4058,7 +4463,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102682",
@@ -4068,7 +4474,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102676",
@@ -4078,7 +4485,8 @@
       "workingdays" : 13,
       "outcome" : "Information not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102678",
@@ -4088,7 +4496,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102679",
@@ -4098,7 +4507,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102674",
@@ -4108,7 +4518,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102675",
@@ -4118,7 +4529,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102680",
@@ -4128,7 +4540,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102684",
@@ -4138,7 +4551,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102688",
@@ -4148,7 +4562,8 @@
       "workingdays" : 13,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102689",
@@ -4158,7 +4573,8 @@
       "workingdays" : 49,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102687",
@@ -4168,7 +4584,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102690",
@@ -4178,7 +4595,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102686",
@@ -4188,7 +4606,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102685",
@@ -4198,7 +4617,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102691",
@@ -4208,7 +4628,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102692",
@@ -4218,7 +4639,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102693",
@@ -4228,7 +4650,8 @@
       "workingdays" : 20,
       "outcome" : "Information not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102694",
@@ -4238,7 +4661,8 @@
       "workingdays" : 7,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102697",
@@ -4248,7 +4672,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102698",
@@ -4258,7 +4683,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102696",
@@ -4268,7 +4694,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102695",
@@ -4278,7 +4705,8 @@
       "workingdays" : 1,
       "outcome" : "Information available for inspection",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102701",
@@ -4288,7 +4716,8 @@
       "workingdays" : 39,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102705",
@@ -4298,7 +4727,8 @@
       "workingdays" : 2,
       "outcome" : "Information not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102699",
@@ -4308,7 +4738,8 @@
       "workingdays" : 23,
       "outcome" : "Refused",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102700",
@@ -4318,7 +4749,8 @@
       "workingdays" : 21,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102702",
@@ -4328,7 +4760,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102703",
@@ -4338,7 +4771,8 @@
       "workingdays" : 0,
       "outcome" : "Information not held",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102706",
@@ -4348,7 +4782,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102704",
@@ -4358,7 +4793,8 @@
       "workingdays" : 33,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102708",
@@ -4368,7 +4804,8 @@
       "workingdays" : 11,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102707",
@@ -4378,7 +4815,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102709",
@@ -4388,7 +4826,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102710",
@@ -4398,7 +4837,8 @@
       "workingdays" : 0,
       "outcome" : "Information not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102713",
@@ -4408,7 +4848,8 @@
       "workingdays" : 40,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102711",
@@ -4418,7 +4859,8 @@
       "workingdays" : 5,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102720",
@@ -4428,7 +4870,8 @@
       "workingdays" : 22,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102712",
@@ -4438,7 +4881,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102715",
@@ -4448,7 +4892,8 @@
       "workingdays" : 6,
       "outcome" : "Information not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102718",
@@ -4458,7 +4903,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102716",
@@ -4468,7 +4914,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102717",
@@ -4478,7 +4925,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102714",
@@ -4488,7 +4936,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102719",
@@ -4498,7 +4947,8 @@
       "workingdays" : 3,
       "outcome" : "Information not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102723",
@@ -4508,7 +4958,8 @@
       "workingdays" : 22,
       "outcome" : "Partial Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102725",
@@ -4518,7 +4969,8 @@
       "workingdays" : 3,
       "outcome" : "Refused",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102721",
@@ -4528,7 +4980,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102726",
@@ -4538,7 +4991,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102730",
@@ -4548,7 +5002,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102748",
@@ -4558,7 +5013,8 @@
       "workingdays" : 0,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102727",
@@ -4568,7 +5024,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102731",
@@ -4578,7 +5035,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102728",
@@ -4588,7 +5046,8 @@
       "workingdays" : 19,
       "outcome" : "Refused",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102781",
@@ -4598,7 +5057,8 @@
       "workingdays" : 13,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102729",
@@ -4608,7 +5068,8 @@
       "workingdays" : 119,
       "outcome" : "Information not held",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102733",
@@ -4618,7 +5079,8 @@
       "workingdays" : 10,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102732",
@@ -4628,7 +5090,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102734",
@@ -4638,7 +5101,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102739",
@@ -4648,7 +5112,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102738",
@@ -4658,7 +5123,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102736",
@@ -4668,7 +5134,8 @@
       "workingdays" : 52,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102750",
@@ -4678,7 +5145,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102735",
@@ -4688,7 +5156,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102737",
@@ -4698,7 +5167,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102740",
@@ -4708,7 +5178,8 @@
       "workingdays" : 21,
       "outcome" : "Closed - no response re clarification",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102745",
@@ -4718,7 +5189,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102743",
@@ -4728,7 +5200,8 @@
       "workingdays" : 15,
       "outcome" : "Closed - no response re clarification",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102742",
@@ -4738,7 +5211,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102747",
@@ -4748,7 +5222,8 @@
       "workingdays" : 13,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102746",
@@ -4758,7 +5233,8 @@
       "workingdays" : 13,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102741",
@@ -4768,7 +5244,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102749",
@@ -4778,7 +5255,8 @@
       "workingdays" : 24,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102744",
@@ -4788,7 +5266,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102755",
@@ -4798,7 +5277,8 @@
       "workingdays" : 11,
       "outcome" : "Information not held",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102756",
@@ -4808,7 +5288,8 @@
       "workingdays" : 7,
       "outcome" : "Information not held",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102752",
@@ -4818,7 +5299,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102754",
@@ -4828,7 +5310,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102818",
@@ -4838,7 +5321,8 @@
       "workingdays" : 0,
       "outcome" : null,
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102751",
@@ -4848,7 +5332,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102757",
@@ -4858,7 +5343,8 @@
       "workingdays" : 21,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102753",
@@ -4868,7 +5354,8 @@
       "workingdays" : 20,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102759",
@@ -4878,7 +5365,8 @@
       "workingdays" : 18,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102758",
@@ -4888,7 +5376,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102762",
@@ -4898,7 +5387,8 @@
       "workingdays" : 3,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102760",
@@ -4908,7 +5398,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102761",
@@ -4918,7 +5409,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102817",
@@ -4928,7 +5420,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102763",
@@ -4938,7 +5431,8 @@
       "workingdays" : 0,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102766",
@@ -4948,7 +5442,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102764",
@@ -4958,7 +5453,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102765",
@@ -4968,7 +5464,8 @@
       "workingdays" : 19,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102767",
@@ -4978,7 +5475,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102783",
@@ -4988,7 +5486,8 @@
       "workingdays" : 25,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102769",
@@ -4998,7 +5497,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102768",
@@ -5008,7 +5508,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102770",
@@ -5018,7 +5519,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102772",
@@ -5028,7 +5530,8 @@
       "workingdays" : 13,
       "outcome" : "Closed - no response re clarification",
       "servicearea" : "Customer Service & Performance",
-      "eventType" : "customer-service-performance"
+      "classname" : "customer-service-performance",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102779",
@@ -5038,7 +5541,8 @@
       "workingdays" : 21,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102773",
@@ -5048,7 +5552,8 @@
       "workingdays" : 27,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102776",
@@ -5058,7 +5563,8 @@
       "workingdays" : 19,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102775",
@@ -5068,7 +5574,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102771",
@@ -5078,7 +5585,8 @@
       "workingdays" : 15,
       "outcome" : "Withdrawn",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102774",
@@ -5088,7 +5596,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102777",
@@ -5098,7 +5607,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102782",
@@ -5108,7 +5618,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102780",
@@ -5118,7 +5629,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102786",
@@ -5128,7 +5640,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102778",
@@ -5138,7 +5651,8 @@
       "workingdays" : 0,
       "outcome" : null,
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102785",
@@ -5148,7 +5662,8 @@
       "workingdays" : 13,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102784",
@@ -5158,7 +5673,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102787",
@@ -5168,7 +5684,8 @@
       "workingdays" : 40,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102789",
@@ -5178,7 +5695,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102788",
@@ -5188,7 +5706,8 @@
       "workingdays" : 27,
       "outcome" : "Closed - no response re clarification",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102790",
@@ -5198,7 +5717,8 @@
       "workingdays" : 16,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102793",
@@ -5208,7 +5728,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102795",
@@ -5218,7 +5739,8 @@
       "workingdays" : 2,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102791",
@@ -5228,7 +5750,8 @@
       "workingdays" : 9,
       "outcome" : "Information already available elsewhere",
       "servicearea" : "Borough Secretary and Solicitor",
-      "eventType" : "borough-secretary-and-solicitor"
+      "classname" : "borough-secretary-and-solicitor",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102792",
@@ -5238,7 +5761,8 @@
       "workingdays" : 0,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102798",
@@ -5248,7 +5772,8 @@
       "workingdays" : 63,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102794",
@@ -5258,7 +5783,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102796",
@@ -5268,7 +5794,8 @@
       "workingdays" : 14,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102800",
@@ -5278,7 +5805,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102797",
@@ -5288,7 +5816,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102804",
@@ -5298,7 +5827,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102803",
@@ -5308,7 +5838,8 @@
       "workingdays" : 20,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102801",
@@ -5318,7 +5849,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102814",
@@ -5328,7 +5860,8 @@
       "workingdays" : 15,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102813",
@@ -5338,7 +5871,8 @@
       "workingdays" : 15,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102806",
@@ -5348,7 +5882,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102802",
@@ -5358,7 +5893,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102808",
@@ -5368,7 +5904,8 @@
       "workingdays" : 1,
       "outcome" : "Information already available elsewhere",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102807",
@@ -5378,7 +5915,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102805",
@@ -5388,7 +5926,8 @@
       "workingdays" : 28,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102810",
@@ -5398,7 +5937,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102809",
@@ -5408,7 +5948,8 @@
       "workingdays" : 4,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102812",
@@ -5418,7 +5959,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102820",
@@ -5428,7 +5970,8 @@
       "workingdays" : 12,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102819",
@@ -5438,7 +5981,8 @@
       "workingdays" : 18,
       "outcome" : "Partial information provided, rest not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102816",
@@ -5448,7 +5992,8 @@
       "workingdays" : 18,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102815",
@@ -5458,7 +6003,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102947",
@@ -5468,7 +6014,8 @@
       "workingdays" : 26,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102822",
@@ -5478,7 +6025,8 @@
       "workingdays" : 17,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102821",
@@ -5488,7 +6036,8 @@
       "workingdays" : 22,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102823",
@@ -5498,7 +6047,8 @@
       "workingdays" : 6,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102825",
@@ -5508,7 +6058,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102826",
@@ -5518,7 +6069,8 @@
       "workingdays" : 20,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102837",
@@ -5528,7 +6080,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102824",
@@ -5538,7 +6091,8 @@
       "workingdays" : 9,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102828",
@@ -5548,7 +6102,8 @@
       "workingdays" : 29,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102827",
@@ -5558,7 +6113,8 @@
       "workingdays" : 15,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102832",
@@ -5568,7 +6124,8 @@
       "workingdays" : 33,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Adult Social Services",
-      "eventType" : "adult-social-services"
+      "classname" : "adult-social-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102829",
@@ -5578,7 +6135,8 @@
       "workingdays" : 9,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102831",
@@ -5588,7 +6146,8 @@
       "workingdays" : 19,
       "outcome" : "Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102830",
@@ -5598,7 +6157,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102833",
@@ -5608,7 +6168,8 @@
       "workingdays" : 23,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102848",
@@ -5618,7 +6179,8 @@
       "workingdays" : 65,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Finance and Resources",
-      "eventType" : "finance-and-resources"
+      "classname" : "finance-and-resources",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102834",
@@ -5628,7 +6190,8 @@
       "workingdays" : 14,
       "outcome" : "Information Provided",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102836",
@@ -5638,7 +6201,8 @@
       "workingdays" : 8,
       "outcome" : "Information Provided",
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102835",
@@ -5648,7 +6212,8 @@
       "workingdays" : 26,
       "outcome" : "Closed - no response re clarification",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102838",
@@ -5658,7 +6223,8 @@
       "workingdays" : 0,
       "outcome" : null,
       "servicearea" : "Housing & Community Services",
-      "eventType" : "housing--community-services"
+      "classname" : "housing--community-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102839",
@@ -5668,7 +6234,8 @@
       "workingdays" : 1,
       "outcome" : "Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102840",
@@ -5678,7 +6245,8 @@
       "workingdays" : 2,
       "outcome" : "Information not held",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102842",
@@ -5688,7 +6256,8 @@
       "workingdays" : 67,
       "outcome" : "Closed - no response re clarification",
       "servicearea" : null,
-      "eventType" : "unknown"
+      "classname" : "unknown",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102846",
@@ -5698,7 +6267,8 @@
       "workingdays" : 19,
       "outcome" : "Partial Information Provided",
       "servicearea" : "Childrens Services",
-      "eventType" : "childrens-services"
+      "classname" : "childrens-services",
+      "durationEvent" : "false"
     },
     {
       "id" : "RFI102854",
@@ -5708,7 +6278,8 @@
       "workingdays" : 25,
       "outcome" : "Information Provided",
       "servicearea" : "Environment & Regeneration",
-      "eventType" : "environment-regeneration"
+      "classname" : "environment-regeneration",
+      "durationEvent" : "false"
     }
   ]
 }
