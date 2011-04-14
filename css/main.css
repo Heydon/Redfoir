@@ -139,7 +139,7 @@ font-style:italic;
 /* TIMELINE ======================================================================================= */
 
 #timeline-container {
-padding:0 0 0 55px;
+padding:0 0 0 160px;
 background:url(images/logo_back.png) no-repeat left center;
 }
 
@@ -158,6 +158,16 @@ background:#cccc33;
 
 div.timeline-event-tape {
 background:transparent url(images/yellow_stripe.png);
+}
+
+div.timeline-event-icon {
+width:10px;
+height:10px;
+background:transparent url(images/event_star.png) no-repeat left top;
+}
+
+div.timeline-event-icon img {
+display:none;
 }
 
 /*------------------- Horizontal / Vertical lines ----------------*/
