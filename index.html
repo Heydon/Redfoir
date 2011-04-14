@@ -25,12 +25,20 @@
 <script id="foirTemplate" type="text/x-jquery-tmpl">
     <div class="foir">
     	<h2>${id}</h2>
-		<span>cat: ${servicearea}</span>
-		<span>workingdays: ${workingdays}</span>
-		<span>cost: ${cost}</span>
-		<span>outcome: ${outcome}</span>
-		<img src="processing/requestClouds/cram-${id}.png"/>
-		<p>${description}</p>
+			<div id="cloud">
+				<img src="processing/requestClouds/cram-${id}.png"/>
+			</div>
+			<div id="summary">
+				<div class="inner">
+					<p>CAT: <span>${servicearea}</span></p>
+					<p>WORKING DAYS: <span>${workingdays}</span></p>
+					<p>COST: <span>${cost}</span></p>
+					<p>OUTCOME: <span>${outcome}</span></p>
+				</div>
+			</div>
+			<div id="description">
+				<blockquote><p>&#8220;${description}&#8221;</p></blockquote>
+			</div>
     </div>
 </script>
 

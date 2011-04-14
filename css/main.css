@@ -21,6 +21,17 @@ button, #submit, .submit {cursor:pointer}
 
 }
 
+@font-face {
+    font-family: 'MyUnderwoodRegular';
+    src: url('MyUnderwood-webfont.eot');
+    src: url('MyUnderwood-webfont.eot?#iefix') format('eot'),
+         url('MyUnderwood-webfont.woff') format('woff'),
+         url('MyUnderwood-webfont.ttf') format('truetype'),
+         url('MyUnderwood-webfont.svg#webfont72lyKL7L') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
 background:#000 /*url(../images/21px.png)*/;
 font-size:140%; /* Only really works with percentages that make whole, even pixel numbers eg 100% (16px), 87.5% (14px) and 75% (12px) */
@@ -172,6 +183,10 @@ margin:0;
 font-size:150%;
 }
 
+#summary-stats acronym {
+letter-spacing:3px;
+}
+
 #summary-stats h2 {
 padding:0 0 10px 0;
 font-size:4em;
@@ -209,6 +224,61 @@ background:transparent url(images/event_star.png) no-repeat left top;
 
 div.timeline-event-icon img {
 display:none;
+}
+
+div.foir {
+width:960px;
+height:350px;
+overflow:hidden;
+border:2px solid #fff;
+}
+
+div.foir h2 {
+text-align:center;
+height:50px;
+line-height:50px;
+padding:0;
+color:#fff;
+background:#8a3636;
+font-family:'MyUnderwoodRegular', serif;
+}
+
+div#cloud, div#summary, div#description {
+width:320px;
+height:300px;
+float:left;
+clear:none;
+color:#fff;
+}
+
+div#summary p {
+text-indent:0;
+text-align:left;
+text-transform:uppercase;
+font-size:130%;
+color:#cccc33;
+}
+
+div#summary p span {
+color:#fff;
+}
+
+div#description blockquote {
+padding:10px 1em;
+}
+
+div#description blockquote p {
+font-size:90%;
+text-align:center;
+font-weight:bold;
+}
+
+div#description {
+font-family:georgia, serif;
+}
+
+.inner {
+padding:10px 1em;
 }
 
 /*------------------- Horizontal / Vertical lines ----------------*/
@@ -252,7 +322,7 @@ height:100%;
 	left:0;
 }
 
-.timeline-highlight-decorator{background-color:#FFC080;}
+.timeline-highlight-decorator{background-color:;}
 .timeline-highlight-point-decorator{background-color:#ff5;}
 
 
@@ -297,7 +367,7 @@ height:100%;
 
 
 /*------------------------------- Ether.highlight -------------------------*/
-.timeline-ether-highlight{position:absolute; background-color:#666;}
+.timeline-ether-highlight{position:absolute; background-color:#8a3636;}
 .timeline-horizontal .timeline-ether-highlight{top:2px;}
 .timeline-vertical .timeline-ether-highlight{left:2px;}
 
