@@ -20,8 +20,26 @@ Timeline.OriginalEventPainter.prototype._showBubble = function(x, y, evt) {
   });
 }
 
+//fancybox frontmatter
+function frontmatter(){
+	$.fancybox('#frontmatter',
+		{
+			//'content':content,
+		    //'orig' : $(elem),
+		    'type' : 'inline',
+		    'cyclic': true,
+		    'transitionIn':'elastic',
+		    'transitionOut':'elastic',
+		    'opacity':true,
+		    'overlayShow':true,
+		    'titlePosition'   : 'over'
+  		}
+	);
+}
+
 // simile timeline initialisation
 function onLoad() {
+   frontmatter();
    var eventSource = new Timeline.DefaultEventSource(0);
    var bandInfos = [
      Timeline.createBandInfo({
