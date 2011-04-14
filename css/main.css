@@ -105,6 +105,13 @@ margin:1.5em;
 #container {
 width:960px; /* Should be reasonably narrow (preferably less than 75 characters including spaces) for ease of scanning */ 
 margin:0 auto;
+padding:20px 0 0 0;
+}
+
+img#logo {
+display:block;
+width:300px;
+margin:10px auto;
 }
 
 #body {
@@ -131,13 +138,26 @@ font-style:italic;
 
 /* TIMELINE ======================================================================================= */
 
-#timeline {height:200px;}
+#timeline-container {
+padding:0 0 0 55px;
+background:url(images/logo_back.png) no-repeat left center;
+}
 
-
+#timeline {
+height:200px;
+}
 
 .timeline-event-label {
 font-size:50%;
 color:#999;
+}
+
+div.timeline-small-event-tape {
+background:#cccc33;
+}
+
+div.timeline-event-tape {
+background:transparent url(images/yellow_stripe.png);
 }
 
 /*------------------- Horizontal / Vertical lines ----------------*/
@@ -152,7 +172,7 @@ color:#999;
 /*---------------- Weekends ---------------------------*/
 .timeline-ether-weekends{
 	position:absolute;
-	background-color:#FFFFE0;
+	background:transparent;
 }
 
 .timeline-vertical .timeline-ether-weekends{left:0;width:100%;}
@@ -255,7 +275,7 @@ height:100%;
 /*--------------------------------- TIMELINE-------------------------*/
 .timeline-ether-bg{width:100%; height:100%;}
 .timeline-band-0 .timeline-ether-bg{background:transparent !important}
-.timeline-band-1 .timeline-ether-bg{background-color:#641919}
+.timeline-band-1 .timeline-ether-bg{background:transparent}
 .timeline-band-2 .timeline-ether-bg{background:transparent !important;}
 .timeline-band-3 .timeline-ether-bg{background:transparent !important;}
 .timeline-duration-event {
