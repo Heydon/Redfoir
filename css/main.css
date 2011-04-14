@@ -139,12 +139,53 @@ font-style:italic;
 /* TIMELINE ======================================================================================= */
 
 #timeline-container {
-padding:0 0 0 55px;
+padding:0 0 0 160px;
 background:url(images/logo_back.png) no-repeat left center;
 }
 
 #timeline {
 height:200px;
+}
+
+#details {
+padding:20px 0 0 0;
+}
+
+#details img {
+display:block;
+float:left;
+clear:none;
+width:300px;
+height:300px;
+}
+
+#summary-stats {
+width:300px;
+float:right;
+clear:none;
+}
+
+#summary-stats p {
+text-align:left;
+color:#cccc33;
+margin:0;
+font-size:150%;
+}
+
+#summary-stats h2 {
+padding:0 0 10px 0;
+font-size:4em;
+color:#fff;
+line-height:1;
+}
+
+#summary-stats h2 span {
+vertical-align:super;
+font-size:0.4em;
+}
+
+p.duration {
+color:#8a3636 !important;
 }
 
 .timeline-event-label {
@@ -158,6 +199,16 @@ background:#cccc33;
 
 div.timeline-event-tape {
 background:transparent url(images/yellow_stripe.png);
+}
+
+div.timeline-event-icon {
+width:10px;
+height:10px;
+background:transparent url(images/event_star.png) no-repeat left top;
+}
+
+div.timeline-event-icon img {
+display:none;
 }
 
 /*------------------- Horizontal / Vertical lines ----------------*/
