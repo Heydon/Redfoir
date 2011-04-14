@@ -36,6 +36,24 @@ function frontmatter(){
 		    'transitionOut':'elastic',
 		    'opacity':true,
 		    'overlayShow':true,
+			'overlayOpacity':1,
+		    'titlePosition'   : 'over'
+  		}
+	);
+}
+
+function endmatter(){
+	$.fancybox('#emslide1',
+		{
+			//'content':content,
+		    //'orig' : $(elem),
+		    'type' : 'inline',
+		    'cyclic': true,
+		    'transitionIn':'elastic',
+		    'transitionOut':'elastic',
+		    'opacity':true,
+		    'overlayShow':true,
+			'overlayOpacity':1,
 		    'titlePosition'   : 'over'
   		}
 	);
