@@ -1,3 +1,25 @@
+var costperday = 100;
+
+Timeline.OriginalEventPainter.prototype._showBubble = function(x, y, evt) {
+   
+   var elem = this['_eventIdToElmt'][evt.getID()];
+   var v = evt._obj;
+   v.cost = v.workingdays * costperday;
+   var content = $('#foirTemplate').tmpl(v)
+   $.fancybox(
+    {
+	'content':content,
+    'orig' : $(elem),
+    //'type' : 'inline',
+    //'cyclic': true,
+    'transitionIn':'elastic',
+    'transitionOut':'elastic',
+    'opacity':true,
+    'overlayShow':false,
+    'titlePosition'   : 'over'
+  });
+}
+
 // simile timeline initialisation
 function onLoad() {
    var eventSource = new Timeline.DefaultEventSource(0);
@@ -31,3 +53,4 @@ function onLoad() {
             });
    //Timeline.loadXML("example1.xml", function(xml, url) { eventSource.loadXML(xml, url); });
  }
+ 
