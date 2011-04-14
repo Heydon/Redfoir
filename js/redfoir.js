@@ -26,7 +26,7 @@ Timeline.OriginalEventPainter.prototype._showBubble = function(x, y, evt) {
 
 //fancybox frontmatter
 function frontmatter(){
-	$.fancybox('#frontmatter',
+	$.fancybox('#fmslide1',
 		{
 			//'content':content,
 		    //'orig' : $(elem),
