@@ -227,7 +227,7 @@ display:none;
 }
 
 div.foir {
-width:960px;
+width:860px;
 height:430px;
 overflow:hidden;
 border:2px solid #fff;
@@ -244,11 +244,15 @@ font-family:'MyUnderwoodRegular', serif;
 }
 
 div#cloud, div#summary, div#description {
-width:320px;
+width:280px;
 height:300px;
 float:left;
 clear:none;
 color:#fff;
+}
+
+div#cloud img  {
+width:100%;
 }
 
 div#summary p {
